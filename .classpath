@@ -8,7 +8,6 @@
 	<classpathentry kind="lib" path="lib/hsqldb-2.3.4/hsqldb/lib/sqltool.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang-2.6/commons-lang-2.6.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.2/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="lib/sqljdbc4/sqljdbc.jar"/>
 	<classpathentry kind="lib" path="lib/sqljdbc4/sqljdbc4.jar"/>
 	<classpathentry kind="lib" path="lib/sqljdbc4/sqljdbc41.jar"/>
 	<classpathentry kind="lib" path="lib/sqljdbc4/sqljdbc42.jar"/>
