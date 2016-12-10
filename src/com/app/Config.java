@@ -33,6 +33,7 @@ public class Config {
 		p.setProperty("repoPath", "TODO");
 		p.setProperty("dbpassword", "TODO");
 		p.setProperty("database", "TODO");
+		p.setProperty("sqlAccessString", "TODO");
 		
 		p.store(os, null);
 	}
